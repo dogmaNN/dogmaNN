@@ -1,6 +1,14 @@
+# About:
 dogmaNN aka AGAGhihi7,
 he is a dumbass
 
+# Tech Stack:
+Python,
+HTML, CSS, JavaScript
+
+# Github Stats:
+![yee](https://github-readme-stats.vercel.app/api?username=dogmaNN&show_icons=true&theme=synthwave)
+# Socials:
 - Youtube : https://youtube.com/@AGAGhihi7
 - Roblox : @AGAGhihi7 / @UhBigFish
 
