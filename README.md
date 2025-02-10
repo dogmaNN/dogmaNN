@@ -1,6 +1,6 @@
 # About:
-dogmaNN aka AGAGhihi7,
-he is a dumbass
+dogmaNN aka AGAGhihi7 aka BURogram, he is a dumbass
+(ya i have many names)
 
 # Tech Stack:
 Python,
