@@ -8,7 +8,7 @@ HTML, CSS, JavaScript
 
 # Github Stats:
 ![yee](https://github-readme-stats.vercel.app/api?username=dogmaNN&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogmaNN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogmaNN&layout=compact)
 
 # Socials:
 - Youtube : https://youtube.com/@AGAGhihi7
